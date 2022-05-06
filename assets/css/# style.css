@@ -1,0 +1,32 @@
+.justify-center{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    width: 1320px;
+}
+
+.nav-link a:hover{
+    color: black;
+    opacity: 1;
+}
+
+.header-align{
+    display: flex;
+    list-style: none;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-6{
+    width: 50%;
+}
