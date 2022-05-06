@@ -13,13 +13,13 @@
 }
 
 .header-align{
-    display: flex;
-    list-style: none;
+    display:flex;
+    list-style:none;
 }
 
 section{
-    display: flex;
-    justify-content: center;
+    display:flex;
+    justify-content:center;
 }
 
 .row{
